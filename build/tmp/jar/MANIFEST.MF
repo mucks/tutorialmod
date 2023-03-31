@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Specification-Title: tutorialmod
+Specification-Version: 1
+Implementation-Title: tutorialmod
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Timestamp: 2023-03-31T23:06:47+0700
+
